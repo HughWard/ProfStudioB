@@ -1,2 +1,6 @@
 # Project exclude paths
 /venv/
+nsw_localities
+shape_data
+venv
+australian_postcodes
